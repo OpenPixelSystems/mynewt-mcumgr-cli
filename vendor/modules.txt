@@ -1,0 +1,121 @@
+# github.com/JuulLabs-OSS/ble v0.0.0-20200716215611-d4fcc9d598bb
+## explicit; go 1.13
+github.com/JuulLabs-OSS/ble
+github.com/JuulLabs-OSS/ble/darwin
+github.com/JuulLabs-OSS/ble/examples/lib/dev
+github.com/JuulLabs-OSS/ble/linux
+github.com/JuulLabs-OSS/ble/linux/adv
+github.com/JuulLabs-OSS/ble/linux/att
+github.com/JuulLabs-OSS/ble/linux/gatt
+github.com/JuulLabs-OSS/ble/linux/hci
+github.com/JuulLabs-OSS/ble/linux/hci/cmd
+github.com/JuulLabs-OSS/ble/linux/hci/evt
+github.com/JuulLabs-OSS/ble/linux/hci/socket
+# github.com/JuulLabs-OSS/cbgo v0.0.1
+## explicit; go 1.14
+github.com/JuulLabs-OSS/cbgo
+# github.com/abiosoft/readline v0.0.0-20180607040430-155bce2042db
+## explicit
+github.com/abiosoft/readline
+# github.com/fatih/color v1.7.0
+## explicit
+github.com/fatih/color
+# github.com/fatih/structs v1.1.0
+## explicit
+github.com/fatih/structs
+# github.com/flynn-archive/go-shlex v0.0.0-20150515145356-3f9db97f8568
+## explicit
+github.com/flynn-archive/go-shlex
+# github.com/inconshreveable/mousetrap v1.0.0
+## explicit
+github.com/inconshreveable/mousetrap
+# github.com/joaojeronimo/go-crc16 v0.0.0-20140729130949-59bd0194935e
+## explicit
+github.com/joaojeronimo/go-crc16
+# github.com/konsorten/go-windows-terminal-sequences v1.0.2
+## explicit
+github.com/konsorten/go-windows-terminal-sequences
+# github.com/mattn/go-colorable v0.1.6
+## explicit; go 1.13
+github.com/mattn/go-colorable
+# github.com/mattn/go-isatty v0.0.12
+## explicit; go 1.12
+github.com/mattn/go-isatty
+# github.com/mattn/go-runewidth v0.0.6
+## explicit; go 1.9
+github.com/mattn/go-runewidth
+# github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b
+## explicit
+github.com/mgutz/ansi
+# github.com/mgutz/logxi v0.0.0-20161027140823-aebf8a7d67ab
+## explicit
+github.com/mgutz/logxi/v1
+# github.com/mitchellh/go-homedir v1.1.0
+## explicit
+github.com/mitchellh/go-homedir
+# github.com/pkg/errors v0.8.1
+## explicit
+github.com/pkg/errors
+# github.com/raff/goble v0.0.0-20200327175727-d63360dcfd80
+## explicit
+github.com/raff/goble/xpc
+# github.com/runtimeco/go-coap v0.0.0-20190911184520-8e5532820fc0
+## explicit
+github.com/runtimeco/go-coap
+# github.com/sirupsen/logrus v1.5.0
+## explicit; go 1.13
+github.com/sirupsen/logrus
+# github.com/spf13/cast v1.3.0
+## explicit
+github.com/spf13/cast
+# github.com/spf13/cobra v0.0.5
+## explicit; go 1.12
+github.com/spf13/cobra
+# github.com/spf13/pflag v1.0.5
+## explicit; go 1.12
+github.com/spf13/pflag
+# github.com/tarm/serial v0.0.0-20180830185346-98f6abe2eb07
+## explicit
+github.com/tarm/serial
+# github.com/ugorji/go/codec v1.1.7
+## explicit
+github.com/ugorji/go/codec
+# golang.org/x/net v0.0.0-20191119073136-fc4aabc6c914
+## explicit; go 1.11
+golang.org/x/net/context
+# golang.org/x/sys v0.0.0-20220608164250-635b8c9b7f68
+## explicit; go 1.17
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+# gopkg.in/abiosoft/ishell.v2 v2.0.0
+## explicit
+gopkg.in/abiosoft/ishell.v2
+# gopkg.in/cheggaaa/pb.v1 v1.0.28
+## explicit
+gopkg.in/cheggaaa/pb.v1
+# mynewt.apache.org/newt v0.0.0-20201028015609-b57111dbd19f
+## explicit; go 1.13
+mynewt.apache.org/newt/util
+mynewt.apache.org/newt/util/unixchild
+# mynewt.apache.org/newtmgr v0.0.0-20201028150837-60b2da78788c
+## explicit; go 1.12
+mynewt.apache.org/newtmgr/newtmgr/bll
+mynewt.apache.org/newtmgr/newtmgr/cli
+mynewt.apache.org/newtmgr/newtmgr/config
+mynewt.apache.org/newtmgr/newtmgr/core
+mynewt.apache.org/newtmgr/newtmgr/nmutil
+mynewt.apache.org/newtmgr/nmxact/bledefs
+mynewt.apache.org/newtmgr/nmxact/lora
+mynewt.apache.org/newtmgr/nmxact/mgmt
+mynewt.apache.org/newtmgr/nmxact/mtech_lora
+mynewt.apache.org/newtmgr/nmxact/nmble
+mynewt.apache.org/newtmgr/nmxact/nmcoap
+mynewt.apache.org/newtmgr/nmxact/nmp
+mynewt.apache.org/newtmgr/nmxact/nmserial
+mynewt.apache.org/newtmgr/nmxact/nmxutil
+mynewt.apache.org/newtmgr/nmxact/omp
+mynewt.apache.org/newtmgr/nmxact/sesn
+mynewt.apache.org/newtmgr/nmxact/task
+mynewt.apache.org/newtmgr/nmxact/udp
+mynewt.apache.org/newtmgr/nmxact/xact
+mynewt.apache.org/newtmgr/nmxact/xport
