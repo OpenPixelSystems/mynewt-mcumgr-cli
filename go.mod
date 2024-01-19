@@ -1,6 +1,6 @@
-module github.com/apache/mynewt-mcumgr-cli
+module github.com/openpixelsystems/mynewt-mcumgr-cli
 
-go 1.20
+go 1.19
 
 require (
 	mynewt.apache.org/newt v0.0.0-20201028015609-b57111dbd19f
